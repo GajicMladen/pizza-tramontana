@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.local
+*.tsbuildinfo
+scripts/smoke-out
+
+# Local-only source material (raw downloads from the pizzeria's site/Instagram)
+raw-assets/
